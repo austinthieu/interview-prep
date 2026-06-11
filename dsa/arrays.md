@@ -112,6 +112,9 @@ O(n)
 Status:
 ✅ Solved
 
+Solution:
+<https://www.youtube.com/watch?v=KLlXCFG5TnA>
+
 ---
 
 ### Contains Duplicate
@@ -130,6 +133,9 @@ O(n)
 
 Status:
 ✅ Solved
+
+Solution:
+<https://www.youtube.com/watch?v=3OamzN90kPg>
 
 ---
 
