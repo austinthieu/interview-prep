@@ -154,7 +154,10 @@ Space:
 O(1) or O(n)
 
 Status:
-⬜ Not Started
+✅ Solved
+
+Solution:
+<https://www.youtube.com/watch?v=9UtInBqnCgA>
 
 ---
 
@@ -166,7 +169,20 @@ Status:
 
 ### Contains Duplicate
 
-* Forgot that sets provide O(1) lookup.
+* Forgot that to use hashset instead of hashmap since sets store only unique elements
+
+### Valid Anagram
+
+* Used two dictionaries instead of one - instead of comparing two dictionaries we can use 1 dictionary and increment/decrement
+the character's values
+* If all the values are 0 then it is an Anagram
+* Base case of comparing length of both strings to get an early return
+
+### groupAnagrams
+
+* Use an array of 26 to count frequency of all lowercase latters
+* Get the ASCII value of a character using ord()
+* Use a tuple as the key instead of a list because only immutable data types can be key
 
 ---
 
@@ -185,8 +201,8 @@ Things to remember:
 
 * [x] Two Sum
 * [x] Contains Duplicate
-* [ ] Valid Anagram
-* [ ] Group Anagrams
+* [x] Valid Anagram
+* [x] Group Anagrams
 * [ ] Top K Frequent Elements
 * [ ] Product of Array Except Self
 * [ ] Encode and Decode Strings

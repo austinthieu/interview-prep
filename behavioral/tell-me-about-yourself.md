@@ -1,0 +1,11 @@
+# Tell me about yourself
+
+I am a Computer Information Systems graduate with strong experience in software development and automation, specializing in backend and full-stack development. My journey began at Mount Royal University, where I earned my degree with a and consistently made the Dean's and President's Honour Rolls, which gave me a solid foundation in programming and problem-solving.
+
+Throughout my academic and project experience, I have worked with various technologies and programming languages, including C#, Java, Python, and JavaScript. I have a strong background in developing web applications and automated systems, and I am particularly passionate about building scalable, efficient solutions that make a real impact. My most recent role was as a Student Systems Developer at Canadian Natural Resources Limited, where I built a REST API wrapper and bot in C# with .NET to automate a manual workflow, saving the team over 100 hours every month. I also designed system architecture to integrate internal systems with SharePoint Online, set up CI/CD pipelines in Azure DevOps, and wrote unit and integration tests that increased coverage by 25% and reduced production bugs by 15%. This project not only honed my technical skills but also taught me how to identify inefficiencies and deliver measurable results.
+
+I am always eager to learn and grow. Apart from my project work, I regularly engage in professional development through personal projects and coding challenges. This my most recent project which is a Job Search application, which users can track what jobs they apply to and update their application statuses to stay organized. I also stay updated by exploring system design and cloud technologies.
+
+In my free time, I enjoy working on side projects that push me to learn something new. I have a keen interest in backend and infrastructure work, and I am currently exploring cloud-native architectures and scalable system design. I also attend tech meetups and stay connected with the developer community to continuously learn from my peers.
+
+I am excited about the opportunity to bring my diverse skill set, passion for technology, and problem-driven mindset to your team. I look forward to contributing to meaningful projects and being a part of a dynamic, forward-thinking engineering team.
