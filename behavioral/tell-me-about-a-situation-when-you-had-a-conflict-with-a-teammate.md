@@ -1,0 +1,9 @@
+### Tell me abhout a time when you had a conflict with a teammate
+
+**Situation:** During a group software development project in school, my team was building a web application. While designing the user interface, one of my teammates and I disagreed on how the dashboard should be structured. My teammate wanted a feature-rich interface with a large amount of information displayed on a single page, while I believed a simpler, more intuitive design would provide a better user experience.
+
+**Task:** My goal was to help the team choose the best design approach while maintaining a positive working relationship and ensuring we delivered a high-quality product by the deadline.
+
+**Action:** I first met with my teammate to understand their perspective. They felt that displaying more information upfront would reduce the number of clicks required by users. I explained that while having quick access to information was important, presenting too much content at once could overwhelm users and make navigation more difficult. To avoid turning the discussion into a matter of personal preference, I suggested that we create mockups of both designs and present them to the rest of the team. Together, we reviewed the pros and cons of each approach, focusing on usability, accessibility, development effort, and the overall user experience.
+
+**Result:** After reviewing the mockups, the team decided on a hybrid solution. We kept the clean and intuitive layout from my design while incorporating several quick-access components from my teammate's proposal. The final interface was easier to navigate while still providing users with the information they needed. The project was completed successfully, and my teammate and I continued to work effectively together throughout the semester. This experience taught me the importance of collaboration, gathering input from others, and focusing on user needs when making technical and design decisions.
